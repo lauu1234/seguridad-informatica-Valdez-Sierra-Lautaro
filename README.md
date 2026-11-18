@@ -2,9 +2,9 @@
 
 ## Datos del estudiante
 
-- **Nombre y apellido:** 
-- **Curso:** 
-- **Materia:** 
+- **Nombre y apellido:Lautaro Valdez Sierra** 
+- **Curso:6to año** 
+- **Materia:Desarrollo de Soluciones Informáticas** 
 
 ---
 
